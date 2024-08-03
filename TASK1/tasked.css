@@ -1,0 +1,259 @@
+#mainbox
+{
+    background-color: rgb(251, 97, 41);
+    position: relative;
+    height: 660px;
+    width:1370px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#blackbox
+{
+    background-color: rgb(75, 68, 61);
+    position: absolute;
+    height: 540px;
+    width: 1250px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+#photo
+{
+    position: absolute;
+    height: 480px;
+    width: 1190px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#infobox
+{
+    position: absolute;
+    background-color: white ;
+    height: 540px;
+    width: 315px;
+
+    margin-left: 60px;
+}
+#heading
+{
+    font-family: lucida handwriting;
+    margin-left: 40px;
+}
+#heading2
+{
+    font-family: papyrus;
+    margin-left: 60px;
+}
+
+#heading3
+{
+    font-family: papyrus;
+    margin-left: 20px;
+}
+#text1
+{
+    font-family: times new roman;
+}
+#menu
+{
+    color:black;
+    border: solid black;
+    border-width: 5px;
+    border-radius: 15px;
+    font-size:XX-large;
+    text-decoration: none;
+    margin-bottom: 300px;
+    margin-left: 40px;
+}
+#name
+{
+    background-color: white;
+    height:50px;
+    width: 500px;
+    font-size: 40px;
+    font-family: papyrus;
+    
+}
+.navbar ul
+{
+    height: 55px;
+    font-size: 20px;
+    list-style-type: none;
+    padding: 0px;
+    background-color: hsl(304, 59%, 17%);
+    margin: 0px;
+    overflow:hidden;
+    border-radius: 25px;
+}
+.navbar a
+{
+    color: white;
+    text-decoration: none;
+    display:block;
+    text-align: center;
+    padding: 15px;
+    padding-left: 125px;
+}
+.navbar a:hover
+{
+    background-color: black;
+}
+.navbar li{
+    float:left;
+}
+#titll
+{
+height:640px;
+width:1440px;
+margin-left:20px;
+position: absolute;
+}
+#A
+{
+position: relative;
+
+height: 640px;
+width: 1440px;
+}
+#B
+{
+    font-style: bold;
+    font-family: bradley Impact ;
+font-size: xx-large;
+position: absolute;
+margin-left: 480px;
+margin-top: 200px;
+}
+#C
+{
+    position: absolute;
+    margin-top: 280px;
+margin-left:500px;
+font-family: cursive;
+    font-size: small;
+}
+#buttt
+{
+    margin-top: 480px;
+    margin-left: 560px;
+    position: absolute;
+    color: black;
+    text-decoration: none;
+    border-width: 5px;
+    font-size: xx-large;
+    background-color: orange;
+}
+
+#dishes
+{
+    position: relative;
+    background-color: rgb(242, 245, 225);
+    height:640px;
+    width:1440px;
+    margin-left:20px;
+   
+}
+#pp
+{
+    position: absolute;
+height: 150px;
+width: 150px;
+margin-top: 100px;
+margin-left: 225px;
+border-radius: 50px;
+}
+#cb
+{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    margin-top: 100px;
+    margin-left: 625px;
+    border-radius: 50px;
+}
+#d
+{
+    position: absolute;
+    height: 150px;
+    margin-top: 100px;
+    margin-left: 1050px;
+    width: 150px;
+    border-radius: 50px;
+}
+#dish1
+{
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: 200px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+#dish2
+{
+    
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: 600px;
+    border-style: solid;
+    border-color: black;
+}
+#dish3
+{
+    position: absolute;
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    margin-top: 250px;
+    margin-left: 1020px;
+    border-style: solid;
+    border-color: black;
+}
+#peak
+{
+    position: absolute;
+    margin-left: 570px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#chef1
+{
+    position:relative;
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 300px;;
+}
+#square1
+{
+    position: absolute;
+    height:300px;
+    width:800px;
+    margin-top:0px;
+    margin-left:150px;
+    background-color: white;
+}
+#chefs1
+{
+    position:absolute;
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 300px;
+}
+#texted1
+{
+    margin-left: 200px;
+}
